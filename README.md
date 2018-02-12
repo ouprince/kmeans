@@ -1,5 +1,10 @@
 ## 链接
 	https://github.com/ouprince/kmeans.git
+
+## 执行条件
+	python 2.7
+	mahout
+	jdk
 	
 ## 聚类示例
 	只要执行shell脚本 ./k-means.sh csv_result1 100
